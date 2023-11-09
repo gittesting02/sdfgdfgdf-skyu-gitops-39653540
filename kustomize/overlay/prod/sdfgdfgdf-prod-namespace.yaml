@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: sdfgdfgdf-prod
+  labels:
+    environment-id: env_148a904e-a65f-47d5-9283-4c2098cb9dd3
+    project-id: project_cc144bad-26bc-445d-a55d-cdd46109ac05
+    project-name: sdfgdfgdf
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
